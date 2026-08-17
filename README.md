@@ -129,5 +129,5 @@ Visit `http://localhost:3000`
 
 ## 👤 Author
 
-**Rohan Gupta**
-B.Tech CSE-IoT | [GitHub](https://github.com/rohangupta1258-prog) | [LinkedIn](https://linkedin.com/in/rohan-gupta-4b509928a)
+**Mohit Kumar**
+B.Tech CSE-IoT | [GitHub]([https://github.com/rohangupta1258-prog](https://github.com/Mohit2596)) | [LinkedIn]([https://linkedin.com/in/rohan-gupta-4b509928a](https://www.linkedin.com/in/mohit-kumar-471828315/))
